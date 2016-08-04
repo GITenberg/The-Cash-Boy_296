@@ -1,0 +1,36 @@
+_repo: The-Cash-Boy_296
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio
+    aliases:
+    - Putnam, Arthur Lee
+    - Preston, Charles F.
+    - Starr, Julian
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2006-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '296'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Adoptees -- Juvenile fiction'
+- !lcsh 'Baseball -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Didactic fiction'
+- GITenberg
+title: The Cash Boy
+url: http://www.gutenberg.org/ebooks/296
